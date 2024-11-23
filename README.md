@@ -29,11 +29,3 @@ Visualization: Matplotlib, Seaborn, Plotly
 APIs: Yahoo Finance (yfinance)
 
 
-# Installation
-Clone the repository:
-
-git clone https://github.com/yourusername/stock-market-portfolio-optimization.git
-cd stock-market-portfolio-optimization
-Install the required dependencies:
-
-pip install -r requirements.txt
